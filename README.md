@@ -27,17 +27,18 @@ ML-Playground/
 │
 ├── 01-NumPy/
 ├── 02-Pandas/
-├── 03-Matplotlib/
-├── 04-Seaborn/
-├── 05-Statistics/
-├── 06-Data-Preprocessing/
-├── 07-Scikit-Learn/
-├── 08-Machine-Learning/
+├── 03-Data Visualization/
+|   ├──Matplotlib/
+|   └── Seaborn/
+├── 04-Statistics/
+├── 05-Data-Preprocessing/
+├── 06-Scikit-Learn/
+├── 07-Machine-Learning/
 │   ├── Supervised/
 │   ├── Unsupervised/
 │   └── Model-Evaluation/
-├── 09-Deep-Learning/
-├── 10-Projects/
+├── 08-Deep-Learning/
+├── 09-Projects/
 │
 ├── datasets/
 ├── images/
