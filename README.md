@@ -55,8 +55,8 @@ ML-Playground/
 | Python Fundamentals | ✅ Completed |
 | NumPy | ✅ Completed |
 | Pandas | ✅ Completed |
-| Matplotlib | 🟡 In Progress |
-| Seaborn | ⏳ Planned |
+| Matplotlib | ✅ Completed |
+| Seaborn | 🟡 In Progress |
 | Statistics | ⏳ Planned |
 | Data Preprocessing | ⏳ Planned |
 | Scikit-Learn | ⏳ Planned |
