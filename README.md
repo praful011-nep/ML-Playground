@@ -30,7 +30,8 @@ ML-Playground/
 ├── 03-Data Visualization/
 |   ├──Matplotlib/
 |   ├──Seaborn/
-|   └── Plotly/
+|   ├── Plotly/
+|   └── Project/
 ├── 04-Statistics/
 ├── 05-Data-Preprocessing/
 ├── 06-Scikit-Learn/
@@ -58,8 +59,8 @@ ML-Playground/
 | Pandas | ✅ Completed |
 | Matplotlib | ✅ Completed |
 | Seaborn | ✅ Completed |
-| Plotly | 🟡 In Progress |
-| Statistics | ⏳ Planned |
+| Plotly | ✅ Completed |
+| Statistics | 🟡 In Progress |
 | Data Preprocessing | ⏳ Planned |
 | Scikit-Learn | ⏳ Planned |
 | Machine Learning | ⏳ Planned |
@@ -90,10 +91,11 @@ ML-Playground/
 - Pivot Tables
 - Practice datasets
 
-### Data Visualization *(Upcoming)*
+### Data Visualization
 
 - Matplotlib
 - Seaborn
+- Plotly
 
 ### Statistics *(Upcoming)*
 
