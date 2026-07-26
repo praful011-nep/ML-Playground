@@ -29,7 +29,8 @@ ML-Playground/
 ├── 02-Pandas/
 ├── 03-Data Visualization/
 |   ├──Matplotlib/
-|   └── Seaborn/
+|   ├──Seaborn/
+|   └── Plotly/
 ├── 04-Statistics/
 ├── 05-Data-Preprocessing/
 ├── 06-Scikit-Learn/
@@ -56,7 +57,8 @@ ML-Playground/
 | NumPy | ✅ Completed |
 | Pandas | ✅ Completed |
 | Matplotlib | ✅ Completed |
-| Seaborn | 🟡 In Progress |
+| Seaborn | ✅ Completed |
+| Plotly | 🟡 In Progress |
 | Statistics | ⏳ Planned |
 | Data Preprocessing | ⏳ Planned |
 | Scikit-Learn | ⏳ Planned |
