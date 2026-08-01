@@ -147,16 +147,20 @@ ML-Playground/
 
 - Python Fundamentals
 - NumPy
+- Pandas
+- Matplotlib
+- Seaborn 
+- Plotly Express
 
 ### Currently Learning
 
-- Pandas
+- Statistics
 
 ### Next
 
-- Matplotlib
-- Seaborn
-- Statistics
+- Data Preprocessing
+- Scikit-Learn
+- Machine Learning Algorithms
 
 ---
 
@@ -167,19 +171,6 @@ ML-Playground/
 - Build practical projects using real-world datasets.
 - Write clean, readable, and well-documented code.
 - Track my progress throughout my learning journey.
-
----
-
-## 🚀 Planned Projects
-
-Some projects I plan to build include:
-
-- House Price Prediction
-- Customer Churn Prediction
-- Spam Email Classification
-- Movie Recommendation System
-- Image Classification
-- Sentiment Analysis
 
 ---
 
