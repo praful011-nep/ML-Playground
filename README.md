@@ -33,9 +33,8 @@ ML-Playground/
 |   ├── Plotly/
 |   └── Project/
 ├── 04-Statistics/
-├── 05-Data-Preprocessing/
-├── 06-Scikit-Learn/
 ├── 07-Machine-Learning/
+│   ├── ML Foundation/
 │   ├── Supervised/
 │   ├── Unsupervised/
 │   └── Model-Evaluation/
@@ -61,9 +60,7 @@ ML-Playground/
 | Seaborn | ✅ Completed |
 | Plotly | ✅ Completed |
 | Statistics | 🟡 In Progress |
-| Data Preprocessing | ⏳ Planned |
-| Scikit-Learn | ⏳ Planned |
-| Machine Learning | ⏳ Planned |
+| Machine Learning | 🟡 In Progress |
 | Deep Learning | ⏳ Planned |
 | Projects | ⏳ Planned |
 
@@ -97,7 +94,7 @@ ML-Playground/
 - Seaborn
 - Plotly
 
-### Statistics *(Upcoming)*
+### Statistics 
 
 - Descriptive Statistics
 - Probability
@@ -105,15 +102,15 @@ ML-Playground/
 - Hypothesis Testing
 - Correlation
 
-### Data Preprocessing *(Upcoming)*
+### Machine Learning
+
+**Data Preprocessing **
 
 - Data Cleaning
 - Feature Engineering
 - Feature Scaling
 - Encoding
 - Train-Test Split
-
-### Machine Learning *(Upcoming)*
 
 **Supervised Learning**
 
@@ -151,16 +148,15 @@ ML-Playground/
 - Matplotlib
 - Seaborn 
 - Plotly Express
+- Statistics
 
 ### Currently Learning
 
-- Statistics
+- Machine Learning
 
 ### Next
 
-- Data Preprocessing
-- Scikit-Learn
-- Machine Learning Algorithms
+- Deep Learning
 
 ---
 
