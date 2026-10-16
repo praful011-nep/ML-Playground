@@ -104,13 +104,12 @@ ML-Playground/
 
 ### Machine Learning
 
-**Data Preprocessing **
-
-- Data Cleaning
+**ML Foundation**
+- EDA
+- Data Preprocessing/Cleaning
 - Feature Engineering
 - Feature Scaling
 - Encoding
-- Train-Test Split
 
 **Supervised Learning**
 
