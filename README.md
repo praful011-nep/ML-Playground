@@ -73,6 +73,8 @@ ML-Playground/
 - Array creation
 - Indexing and slicing
 - Array operations
+- Array manipulation
+- Plotting Graphs
 - Broadcasting
 - Vectorization
 - Practice exercises
