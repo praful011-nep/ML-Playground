@@ -45,3 +45,16 @@ if st.button("Predict"):
     for col in expected_columns:
         if col not in input_df.columns:
             input_df[col] = 0
+
+    # Recorder Columns
+    input_df = input_df[expected_columns]
+
+    #Scale features and predict
+    scaled_input = scaler.transform(input_df)
+    prediction = model.predict(scaled_input)[0]
+    
+    # Output
+    if prediction == 1:
+        st.error("High Risk of Heart Disease")
+    else:
+        st.success("Low Risk of Heart Disease")
